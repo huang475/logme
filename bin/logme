@@ -1,0 +1,4 @@
+#! /bin/bash
+
+cd $LOGME_HOME
+./logme.py $@
